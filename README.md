@@ -1,2 +1,3 @@
 # hello-world
 Learning Git
+Just a little info about little ol me....  
